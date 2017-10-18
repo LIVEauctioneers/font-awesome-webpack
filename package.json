@@ -1,6 +1,6 @@
 {
     "name": "@liveauctioneers/font-awesome-webpack",
-    "version": "0.0.6-beta.2",
+    "version": "0.0.6",
     "description": "font-awesome package for webpack",
     "main": "index.js",
     "loader": "index.loader.js",
