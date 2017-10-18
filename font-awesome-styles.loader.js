@@ -4,7 +4,6 @@ module.exports = function(content) {
     var config = this.exec(content, this.resourcePath);
     var source =
         "@import \"~@liveauctioneers/font-awesome/less/variables.less\";\n"
-        + "@fa-font-path: \"~@liveauctioneers/font-awesome/fonts/\";\n"
         + "@import \"./font-awesome.config.less\";\n"
         + "@import \"~@liveauctioneers/font-awesome/less/core.less\";\n"
         + "@import \"~@liveauctioneers/font-awesome/less/icons.less\";\n"
